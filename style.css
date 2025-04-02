@@ -1,0 +1,30 @@
+h2 a {
+    color:black; text-decoration:none;
+}
+body {
+    padding-left: 20px;
+    font-family:"Roboto";
+    background-color: #fcfcf5
+}
+.Exp_Home {
+    padding-left: 5px;
+}
+.Projects {
+    padding-left: 20px;
+}
+
+.Main{
+    margin-top: 5%;
+    border: 2px solid;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    padding-right: 2%;
+    border-color: gray;
+    border-radius: 15px;
+    width:fit-content;
+}
+.Top {
+    position: fixed;
+    top: 10px;
+    right: 35px;
+}
